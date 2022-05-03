@@ -1,6 +1,6 @@
 # sirakusnft-ui
 
-## UI built with Vite
+## Frontend built with Vite
 
 
-![alt text](https://github.com/anibesam/sirakusnft/blob/main/srk.jpg?raw=true)
+![alt text](https://github.com/anibesam/sirakusnft/blob/main/srk.png?raw=true)
